@@ -1,0 +1,35 @@
+# 🛍️ React E-Commerce Store
+
+This is a simple React-based e-commerce frontend using [DummyJSON API](https://dummyjson.com/). It features categories, product listings, product details, login, cart, and responsive design.
+
+---
+
+## 🚀 Features
+
+- DummyJSON API Integration
+- Category-wise browsing (Men, Women, Kids, Accessories, etc.)
+- Product detail view
+- Shopping cart (with global state)
+- Responsive design using Tailwind CSS
+- React Router for navigation
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- React Router
+- Tailwind CSS
+- Context API
+- Vite
+- DummyJSON API
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/ecommerce-react-app.git
+cd ecommerce-react-app
+npm install
+npm run dev
